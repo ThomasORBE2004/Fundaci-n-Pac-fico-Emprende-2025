@@ -16,6 +16,12 @@ Este proyecto tiene como objetivo fortalecer las capacidades digitales de la com
 - Microsoft Excel o equivalente
 - Visualizador de PDF
 
+### Instalación / Uso
+Este repositorio no incluye credenciales sensibles por razones de seguridad. Para acceder a los siguientes servicios utilizados en el proyecto, se requiere autorización previa de la Fundación Pacífico Emprende:
+
+-GoDaddy (gestión del dominio)
+-WordPress (sitio web de la fundación)
+-Correo institucional de la fundación
 
 
 ### Autores
