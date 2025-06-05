@@ -5,11 +5,7 @@ Este proyecto tiene como objetivo fortalecer las capacidades digitales de la com
 
 ### Entregables incluidos
 - Plan de trabajo
-- Actas de reuniones
-- Formularios y materiales de taller
 - Scripts en Excel para presupuesto
-- Bitácora técnica
-- Manual de usuario
 - Evidencias fotográficas y gráficas
 
 ### Requisitos
